@@ -1,4 +1,5 @@
 ## Discord-Common-Emojis
+([@Serraniel](http://github.com/serraniel) made me do this)
 
 A curated list of commonly used emojis.<br>
 PR's are always welcome.
