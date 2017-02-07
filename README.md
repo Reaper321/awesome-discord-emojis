@@ -6,10 +6,7 @@ PR's are always welcome.
 
 The images are in resolutions that should display just fine in discord without resizing.<br>
 Just klick on any image to download it.
-
 <br>
-
-![](https://cdn.discordapp.com/emojis/262301805738852352.png) <!-- Whaa -->
 ![](https://cdn.discordapp.com/emojis/232060435266797568.png) <!-- LeftShark -->
 ![](https://cdn.discordapp.com/emojis/246790977564573706.png) <!-- Kappa -->
 ![](https://cdn.discordapp.com/emojis/239071618758868992.png) <!-- LuL -->
