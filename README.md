@@ -40,5 +40,5 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230662560397918208.png) <!-- Abby Hype -->
 ![](https://cdn.discordapp.com/emojis/247667533044383745.png) <!-- Eeeeeh -->
 ![](https://cdn.betterttv.net/emote/57be2be851067c5243fe65f8/3x) <!-- Thonkang -->
-![](https://cdn.betterttv.net/emote/56f5bc4a77f1eeb534a22ea0/3x) <!-- Lewd -->
+![](https://cdn.betterttv.net/emote/55c2f86ff95ede671a79e47f/3x) <!-- Lewd -->
 
