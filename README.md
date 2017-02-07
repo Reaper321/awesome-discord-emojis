@@ -1,7 +1,7 @@
 ## Discord-Common-Emojis
 ([@Serraniel](http://github.com/serraniel) made me do this)
 
-A curated list of commonly used emojis.<br>
+A curated list of aawesome emojis.<br>
 PR's are always welcome.
 
 The images are in resolutions that should display just fine in discord without resizing.<br>
@@ -30,7 +30,7 @@ Just klick on any image to download it.
 [lul]: https://cdn.discordapp.com/emojis/239071618758868992.png
 [lenny]: https://cdn.discordapp.com/emojis/230610802384699392.png
 [fdm]: https://cdn.discordapp.com/emojis/230610802724438016.png
-[fbm]: https://cdn.discordapp.com/emojis/230271958011478016.png
+[fbm]: https://cdn.discordapp.com/emojis/230610802502008832.png
 [whoa]: https://cdn.discordapp.com/emojis/230610802640420864.png
 [xd]: https://cdn.discordapp.com/emojis/230610802686558218.png
 [fry]: https://cdn.discordapp.com/emojis/222644178331500545.png
