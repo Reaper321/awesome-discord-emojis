@@ -1,7 +1,7 @@
-## Discord-Common-Emojis
+## Discord-Emojis
 ([@Serraniel](http://github.com/serraniel) made me do this)
 
-A curated list of aawesome emojis.<br>
+A curated list of awesome emojis.<br>
 PR's are always welcome.
 
 The images are in resolutions that should display just fine in discord without resizing.<br>
