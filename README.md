@@ -26,5 +26,17 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610802770575360.png) <!-- Rem Doh -->
 ![](https://cdn.discordapp.com/emojis/230610803152125952.png) <!-- Rem Yay -->
 ![](https://cdn.discordapp.com/emojis/230610803491864576.png) <!-- Rem Stare -->
+![](https://cdn.discordapp.com/emojis/230155097961660426.png) <!-- Rem Bomb -->
+![](https://cdn.discordapp.com/emojis/230155095789142016.png) <!-- Ram Bomb -->
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
+![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
+![](https://cdn.discordapp.com/emojis/230155099039596545.png) <!-- Shinobu Bomb -->
+![](https://cdn.discordapp.com/emojis/249204277623521282.png) <!-- Shinobu Donut -->
+![](https://cdn.discordapp.com/emojis/230595068204023809.png) <!-- Nya Pasu -->
+![](https://cdn.discordapp.com/emojis/265010527250546689.png) <!-- Chitose NotLike -->
+![](https://cdn.discordapp.com/emojis/263782458200293387.png) <!-- Chitose WTF -->
+![](https://cdn.discordapp.com/emojis/265010526805950464.png) <!-- Chitose Ugh -->
+![](https://cdn.discordapp.com/emojis/265010526906613760.png) <!-- Chitose Think -->
+![](https://cdn.discordapp.com/emojis/265010524641689600.png) <!-- Chitose Smug -->
+![](https://cdn.discordapp.com/emojis/263782587288256512.png) <!-- Chitose Happy -->
