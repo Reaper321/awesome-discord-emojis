@@ -18,7 +18,8 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610802686558218.png) <!-- Awesome -->
 ![](https://cdn.discordapp.com/emojis/222644178331500545.png) <!-- NotSureIf -->
 ![](https://cdn.discordapp.com/emojis/236546497431339020.png) <!-- HeyGuys -->
-![](https://cdn.discordapp.com/emojis/230610803588333568.png) <!-- TracerXD -->
+![](https://cdn.discordapp.com/emojis/230610803588333568.png) <!-- Tracer XD -->
+![](https://cdn.discordapp.com/emojis/260169867582373888.png) <!-- Wuuut -->
 ![](https://cdn.discordapp.com/emojis/230610803118702593.png) <!-- Rem -->
 ![](https://cdn.discordapp.com/emojis/230610802770575360.png) <!-- Rem Doh -->
 ![](https://cdn.discordapp.com/emojis/230610803152125952.png) <!-- Rem Yay -->
@@ -28,6 +29,7 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
+![](https://cdn.discordapp.com/emojis/238039508006862848.png) <!-- Aka Shrug -->
 ![](https://cdn.discordapp.com/emojis/230155099039596545.png) <!-- Shinobu Bomb -->
 ![](https://cdn.discordapp.com/emojis/249204277623521282.png) <!-- Shinobu Donut -->
 ![](https://cdn.discordapp.com/emojis/230595068204023809.png) <!-- Nya Pasu -->
@@ -41,4 +43,6 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/247667533044383745.png) <!-- Eeeeeh -->
 ![](https://cdn.betterttv.net/emote/57be2be851067c5243fe65f8/3x) <!-- Thonkang -->
 ![](https://cdn.betterttv.net/emote/55c2f86ff95ede671a79e47f/3x) <!-- Lewd -->
+![](https://cdn.discordapp.com/emojis/270456765785702400.png) <!-- MeguPuke -->
+![](https://cdn.discordapp.com/emojis/246168134422102023.png) <!-- GoodNight -->
 
