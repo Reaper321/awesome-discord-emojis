@@ -9,6 +9,7 @@ Just klick on any image to download it.
 <br><br><br>
 ![](https://cdn.discordapp.com/emojis/232060435266797568.png) <!-- LeftShark -->
 ![](https://cdn.discordapp.com/emojis/246790977564573706.png) <!-- Kappa -->
+![](https://cdn.discordapp.com/emojis/270994941033840642.png) <!-- bibaKappa -->
 ![](https://cdn.discordapp.com/emojis/239071618758868992.png) <!-- LuL -->
 ![](https://cdn.discordapp.com/emojis/230610802384699392.png) <!-- Lenny -->
 ![](https://cdn.discordapp.com/emojis/230610802724438016.png) <!-- Pepe / FeelsDumbMan -->
@@ -31,8 +32,11 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
 ![](https://cdn.discordapp.com/emojis/238039508006862848.png) <!-- Aka Shrug -->
+![](https://cdn.discordapp.com/emojis/313393546222632960.png) <!-- Pantsu -->
+![](https://cdn.discordapp.com/emojis/313393545807527937.png) <!-- Pantsus -->
 ![](https://cdn.discordapp.com/emojis/230155099039596545.png) <!-- Shinobu Bomb -->
 ![](https://cdn.discordapp.com/emojis/249204277623521282.png) <!-- Shinobu Donut -->
+![](https://cdn.discordapp.com/emojis/303302053688770561.png) <!-- Shinobu Standing -->
 ![](https://cdn.discordapp.com/emojis/230595068204023809.png) <!-- Nya Pasu -->
 ![](https://cdn.discordapp.com/emojis/265010527250546689.png) <!-- Chitose NotLike -->
 ![](https://cdn.discordapp.com/emojis/263782458200293387.png) <!-- Chitose WTF -->
