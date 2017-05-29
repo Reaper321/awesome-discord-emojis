@@ -26,6 +26,7 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610803491864576.png) <!-- Rem Stare -->
 ![](https://cdn.discordapp.com/emojis/230155097961660426.png) <!-- Rem Bomb -->
 ![](https://cdn.discordapp.com/emojis/230155095789142016.png) <!-- Ram Bomb -->
+![](https://cdn.discordapp.com/emojis/230684388084416512.png) <!-- Emilia Bomb -->
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
