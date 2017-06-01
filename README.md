@@ -24,11 +24,16 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610802770575360.png) <!-- Rem Doh -->
 ![](https://cdn.discordapp.com/emojis/230610803152125952.png) <!-- Rem Yay -->
 ![](https://cdn.discordapp.com/emojis/230610803491864576.png) <!-- Rem Stare -->
+![](https://cdn.discordapp.com/emojis/318156115391283200.png) <!-- Rem Blush -->
 ![](https://cdn.discordapp.com/emojis/230155097961660426.png) <!-- Rem Bomb -->
 ![](https://cdn.discordapp.com/emojis/230155095789142016.png) <!-- Ram Bomb -->
+![](https://cdn.discordapp.com/emojis/312036852582449152.png) <!-- Rem Left -->
+![](https://cdn.discordapp.com/emojis/312036783716040704.png) <!-- Ram Right -->
 ![](https://cdn.discordapp.com/emojis/230684388084416512.png) <!-- Emilia Bomb -->
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
+![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- DankNep -->
+![](https://cdn.discordapp.com/emojis/316672249849577472.png) <!-- CirnoWink -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
 ![](https://cdn.discordapp.com/emojis/238039508006862848.png) <!-- Aka Shrug -->
 ![](https://cdn.discordapp.com/emojis/313393546222632960.png) <!-- Pantsu -->
@@ -49,4 +54,7 @@ Just klick on any image to download it.
 ![](https://cdn.betterttv.net/emote/55c2f86ff95ede671a79e47f/3x) <!-- Lewd -->
 ![](https://cdn.discordapp.com/emojis/270456765785702400.png) <!-- MeguPuke -->
 ![](https://cdn.discordapp.com/emojis/246168134422102023.png) <!-- GoodNight -->
-
+![](https://cdn.discordapp.com/emojis/290905717219655680.png) <!-- PikaThug -->
+![](https://cdn.discordapp.com/emojis/266315046819201024.png) <!-- NotBad -->
+![](https://cdn.discordapp.com/emojis/305266506911186947.png) <!-- Yes -->
+![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- No -->
