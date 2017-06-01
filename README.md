@@ -32,7 +32,6 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230684388084416512.png) <!-- Emilia Bomb -->
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
-![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- DankNep -->
 ![](https://cdn.discordapp.com/emojis/316672249849577472.png) <!-- CirnoWink -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
 ![](https://cdn.discordapp.com/emojis/238039508006862848.png) <!-- Aka Shrug -->
