@@ -38,6 +38,7 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/285181804548325376.png) <!-- rooKb -->
 ![](https://cdn.discordapp.com/emojis/285181807358640128.png) <!-- rooW -->
 ![](https://cdn.discordapp.com/emojis/285181811548618753.png) <!-- rooAww -->
+![](https://cdn.discordapp.com/emojis/299607172072079361.png) <!-- rooYay -->
 ![](https://cdn.discordapp.com/emojis/285181812316307456.png) <!-- rooDuck -->
 ![](https://cdn.discordapp.com/emojis/285181812790263808.png) <!-- rooScared -->
 ![](https://cdn.discordapp.com/emojis/285181812961968128.png) <!-- rooWhine -->
