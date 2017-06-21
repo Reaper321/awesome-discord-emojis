@@ -59,10 +59,10 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/230610803491864576.png) <!-- Rem Stare -->
 ![](https://cdn.discordapp.com/emojis/318156115391283200.png) <!-- Rem Blush -->
 ![](https://cdn.discordapp.com/emojis/327063391434833920.png) <!-- Rem Pomf -->
+![](https://cdn.discordapp.com/emojis/312036852582449152.png) <!-- Rem Kiss -->
 ![](https://cdn.discordapp.com/emojis/230155097961660426.png) <!-- Rem Bomb -->
 ![](https://cdn.discordapp.com/emojis/230155095789142016.png) <!-- Ram Bomb -->
-![](https://cdn.discordapp.com/emojis/312036852582449152.png) <!-- Rem Left -->
-![](https://cdn.discordapp.com/emojis/312036783716040704.png) <!-- Ram Right -->
+![](https://cdn.discordapp.com/emojis/312036783716040704.png) <!-- Ram Kiss -->
 ![](https://cdn.discordapp.com/emojis/230684388084416512.png) <!-- Emilia Bomb -->
 ![](https://cdn.discordapp.com/emojis/230610803575881728.png) <!-- Nep Smug -->
 ![](https://cdn.discordapp.com/emojis/230610803009519617.png) <!-- Nep Rage -->
