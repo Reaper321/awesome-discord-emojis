@@ -22,7 +22,6 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- No -->
 ![](https://cdn.discordapp.com/emojis/285181784281448450.png) <!-- proxAye -->
 ![](https://cdn.discordapp.com/emojis/285181786831585280.png) <!-- SpookyWhoa -->
-![](https://cdn.discordapp.com/emojis/285181787380908043.png) <!-- MercyWut -->
 ![](https://cdn.discordapp.com/emojis/222644178331500545.png) <!-- NotSureIf -->
 ![](https://cdn.discordapp.com/emojis/230610802724438016.png) <!-- FeelsDumbMan -->
 ![](https://cdn.discordapp.com/emojis/230610802502008832.png) <!-- FeelsBadMan -->
