@@ -5,22 +5,55 @@ PR's are always welcome.
 
 The images are in resolutions that should display just fine in discord without resizing.<br>
 Just klick on any image to download it.
-<br><br><br>
 
+# Normal
 ![](https://cdn.discordapp.com/emojis/232060435266797568.png) <!-- LeftShark -->
-![](https://cdn.discordapp.com/emojis/246790977564573706.png) <!-- Kappa -->
-![](https://cdn.discordapp.com/emojis/270994941033840642.png) <!-- bibaKappa -->
 ![](https://cdn.discordapp.com/emojis/239071618758868992.png) <!-- LuL -->
-![](https://cdn.discordapp.com/emojis/230610802384699392.png) <!-- Lenny -->
-![](https://cdn.discordapp.com/emojis/230610802724438016.png) <!-- Pepe / FeelsDumbMan -->
-![](https://cdn.discordapp.com/emojis/230610802502008832.png) <!-- Pepe / FeelsBadMan -->
-![](https://cdn.discordapp.com/emojis/222644174988509185.png) <!-- Pepe / EZ -->
 ![](https://cdn.discordapp.com/emojis/230610802640420864.png) <!-- Whoa -->
-![](https://cdn.discordapp.com/emojis/230610802686558218.png) <!-- Awesome -->
-![](https://cdn.discordapp.com/emojis/222644178331500545.png) <!-- NotSureIf -->
-![](https://cdn.discordapp.com/emojis/236546497431339020.png) <!-- HeyGuys -->
+![](https://cdn.discordapp.com/emojis/286939186890801152.png) <!-- GoodMorning -->
+![](https://cdn.discordapp.com/emojis/246168134422102023.png) <!-- GoodNight -->
+![](https://cdn.discordapp.com/emojis/246790977564573706.png) <!-- Kappa -->
 ![](https://cdn.discordapp.com/emojis/230610803588333568.png) <!-- Tracer XD -->
 ![](https://cdn.discordapp.com/emojis/260169867582373888.png) <!-- Wuuut -->
+![](https://cdn.discordapp.com/emojis/230662560397918208.png) <!-- Abby Hype -->
+![](https://cdn.betterttv.net/emote/57be2be851067c5243fe65f8/3x) <!-- Thonkang -->
+![](https://cdn.discordapp.com/emojis/266315046819201024.png) <!-- NotBad -->
+![](https://cdn.discordapp.com/emojis/305266506911186947.png) <!-- Yes -->
+![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- No -->
+![](https://cdn.discordapp.com/emojis/285181784281448450.png) <!-- proxAye -->
+![](https://cdn.discordapp.com/emojis/285181786831585280.png) <!-- SpookyWhoa -->
+![](https://cdn.discordapp.com/emojis/285181787380908043.png) <!-- MercyWut -->
+![](https://cdn.discordapp.com/emojis/222644178331500545.png) <!-- NotSureIf -->
+![](https://cdn.discordapp.com/emojis/230610802724438016.png) <!-- FeelsDumbMan -->
+![](https://cdn.discordapp.com/emojis/230610802502008832.png) <!-- FeelsBadMan -->
+![](https://cdn.discordapp.com/emojis/222644174988509185.png) <!-- FeelsEZMan -->
+![](https://cdn.discordapp.com/emojis/285181783211769856.png) <!-- FeelsKawaiMan -->
+![](https://cdn.discordapp.com/emojis/285181783849435139.png) <!-- FeelsNeatMan -->
+![](https://cdn.discordapp.com/emojis/285181783983521793.png) <!-- FeelsCoffeeMan -->
+![](https://cdn.discordapp.com/emojis/285181789633249280.png) <!-- FeelsTenseMan -->
+![](https://cdn.discordapp.com/emojis/285181790333960203.png) <!-- FeelsLaprasMan -->
+![](https://cdn.discordapp.com/emojis/285181804191809536.png) <!-- FeelsHugMan -->
+![](https://cdn.discordapp.com/emojis/285181818578141194.png) <!-- FeelsRageMan -->
+
+# Roo
+![](https://cdn.discordapp.com/emojis/285181804548325376.png) <!-- rooKb -->
+![](https://cdn.discordapp.com/emojis/285181807358640128.png) <!-- rooW -->
+![](https://cdn.discordapp.com/emojis/285181811548618753.png) <!-- rooAww -->
+![](https://cdn.discordapp.com/emojis/285181812316307456.png) <!-- rooDuck -->
+![](https://cdn.discordapp.com/emojis/285181812790263808.png) <!-- rooScared -->
+![](https://cdn.discordapp.com/emojis/285181812961968128.png) <!-- rooWhine -->
+![](https://cdn.discordapp.com/emojis/285181817408192512.png) <!-- rooBlind -->
+![](https://cdn.discordapp.com/emojis/285181817445810176.png) <!-- rooCry -->
+![](https://cdn.discordapp.com/emojis/285181817898795009.png) <!-- rooVV -->
+![](https://cdn.discordapp.com/emojis/285181818318225419.png) <!-- rooNap -->
+![](https://cdn.discordapp.com/emojis/309760222812176395.png) <!-- rooComfy -->
+![](https://cdn.discordapp.com/emojis/309760225919893504.png) <!-- rooCop -->
+![](https://cdn.discordapp.com/emojis/309760228100931594.png) <!-- rooSip -->
+![](https://cdn.discordapp.com/emojis/309760228121903105.png) <!-- rooTimeout -->
+![](https://cdn.discordapp.com/emojis/309760228172365825.png) <!-- rooJustRight -->
+![](https://cdn.discordapp.com/emojis/309760228239343616.png) <!-- rooFuu -->
+
+# Anime
 ![](https://cdn.discordapp.com/emojis/230610803118702593.png) <!-- Rem -->
 ![](https://cdn.discordapp.com/emojis/230610802770575360.png) <!-- Rem Doh -->
 ![](https://cdn.discordapp.com/emojis/230610803152125952.png) <!-- Rem Yay -->
@@ -37,8 +70,6 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/316672249849577472.png) <!-- CirnoWink -->
 ![](https://cdn.discordapp.com/emojis/251446983644938240.png) <!-- Yui Shrug -->
 ![](https://cdn.discordapp.com/emojis/238039508006862848.png) <!-- Aka Shrug -->
-![](https://cdn.discordapp.com/emojis/313393546222632960.png) <!-- Pantsu -->
-![](https://cdn.discordapp.com/emojis/313393545807527937.png) <!-- Pantsus -->
 ![](https://cdn.discordapp.com/emojis/230155099039596545.png) <!-- Shinobu Bomb -->
 ![](https://cdn.discordapp.com/emojis/249204277623521282.png) <!-- Shinobu Donut -->
 ![](https://cdn.discordapp.com/emojis/303302053688770561.png) <!-- Shinobu Standing -->
@@ -46,24 +77,34 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/265010527250546689.png) <!-- Chitose NotLike -->
 ![](https://cdn.discordapp.com/emojis/263782458200293387.png) <!-- Chitose WTF -->
 ![](https://cdn.discordapp.com/emojis/265010526805950464.png) <!-- Chitose Ugh -->
-![](https://cdn.discordapp.com/emojis/265010526906613760.png) <!-- Chitose Think -->
 ![](https://cdn.discordapp.com/emojis/265010524641689600.png) <!-- Chitose Smug -->
 ![](https://cdn.discordapp.com/emojis/263782587288256512.png) <!-- Chitose Happy -->
-![](https://cdn.discordapp.com/emojis/230662560397918208.png) <!-- Abby Hype -->
-![](https://cdn.discordapp.com/emojis/247667533044383745.png) <!-- Eeeeeh -->
-![](https://cdn.betterttv.net/emote/57be2be851067c5243fe65f8/3x) <!-- Thonkang -->
 ![](https://cdn.betterttv.net/emote/55c2f86ff95ede671a79e47f/3x) <!-- Lewd -->
 ![](https://cdn.discordapp.com/emojis/270456765785702400.png) <!-- MeguPuke -->
-![](https://cdn.discordapp.com/emojis/246168134422102023.png) <!-- GoodNight -->
-![](https://cdn.discordapp.com/emojis/290905717219655680.png) <!-- PikaThug -->
-![](https://cdn.discordapp.com/emojis/266315046819201024.png) <!-- NotBad -->
-![](https://cdn.discordapp.com/emojis/305266506911186947.png) <!-- Yes -->
-![](https://cdn.discordapp.com/emojis/305266499805904896.png) <!-- No -->
+
+# Thinking
+![](https://cdn.discordapp.com/emojis/309374523730296832.png) <!-- ThonkerGuns -->
+![](https://cdn.discordapp.com/emojis/309374524028354571.png) <!-- GabsThonk -->
+![](https://cdn.discordapp.com/emojis/309374525026467842.png) <!-- ThinkBro -->
+![](https://cdn.discordapp.com/emojis/309374525789831182.png) <!-- ThonkoTilt -->
+![](https://cdn.discordapp.com/emojis/309374526263656449.png) <!-- ThinkUp -->
+![](https://cdn.discordapp.com/emojis/309374526784012288.png) <!-- ThinkWat -->
+![](https://cdn.discordapp.com/emojis/309374527102517258.png) <!-- LennyThink -->
+![](https://cdn.discordapp.com/emojis/309374527178145793.png) <!-- HandsomeThink -->
+![](https://cdn.discordapp.com/emojis/309374527484329984.png) <!-- ThinkFusing -->
+![](https://cdn.discordapp.com/emojis/265010526906613760.png) <!-- Chitose Think -->
+![](https://cdn.discordapp.com/emojis/309374528058949634.png) <!-- Guri Think -->
+![](https://cdn.discordapp.com/emojis/286937109510488064.png) <!-- thonkang -->
+![](https://cdn.discordapp.com/emojis/303502098765447168.png) <!-- thinkong -->
+![](https://cdn.discordapp.com/emojis/323023665899896832.png) <!-- 2bthink -->
+![](https://cdn.discordapp.com/emojis/323542925923319838.png) <!-- thinget -->
 
 # Blobs
 
 Since there seems to be quite some demand for google-emojis (aka "blobs") recently,<br>
 here's an appendix of this list just for blobs c:
+
+**This part of the list is not yet curated**
 <br><br><br>
 
 ![](https://cdn.discordapp.com/emojis/317006481021206529.png) <!-- b1nzyblob -->
