@@ -81,6 +81,7 @@ Just klick on any image to download it.
 ![](https://cdn.discordapp.com/emojis/263782587288256512.png) <!-- Chitose Happy -->
 ![](https://cdn.betterttv.net/emote/55c2f86ff95ede671a79e47f/3x) <!-- Lewd -->
 ![](https://cdn.discordapp.com/emojis/270456765785702400.png) <!-- MeguPuke -->
+![](https://cdn.discordapp.com/emojis/373552808533688321.png) <!-- KonataCry -->
 
 # Thinking
 ![](https://cdn.discordapp.com/emojis/309374523730296832.png) <!-- ThonkerGuns -->
