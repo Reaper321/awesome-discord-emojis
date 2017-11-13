@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "utf-8-validate": "^3.0.4",
+    "ws": "^3.3.1"
+  }
+}
