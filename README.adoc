@@ -1,0 +1,677 @@
+:toc: macro
+:toc-title:
+
+[discrete]
+[[discord-emojis]]
+# Discord-Emojis {nbsp} image:https://awesome.re/mentioned-badge.svg[link=https://github.com/jacc/awesome-discord]
+
+A curated list of awesome emojis. +
+PRs are always welcome.
+
+Check out https://github.com/jacc/awesome-discord[jacc/awesome-discord] for more awesome Discord lists/resources.
+
+[discrete]
+[[contributing]]
+## Adding to this List
+
+Please ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Additions should be added to the bottom of the relevant category.
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request and commit should have a useful title.
+
+Thank you for your suggestions!
+
+[discrete]
+[[contents]]
+## Contents
+toc::[]
+
+[[roo]]
+## Roo
+
+[halign="center",valign="middle",cols="^,^,^,^"]
+|=======================================================================
+|image:https://cdn.discordapp.com/emojis/353244916307984386.png[image] + 
+`:rooBlank:`
+|image:https://cdn.discordapp.com/emojis/353244939473125386.png[image] + 
+`:rooBot:`
+|image:https://cdn.discordapp.com/emojis/353244959534743555.png[image] + 
+`:rooFat:`
+|image:https://cdn.discordapp.com/emojis/353245022449172480.png[image] + 
+`:rooRee:`
+|image:https://cdn.discordapp.com/emojis/353245073150050324.png[image] + 
+`:rooShades:`
+|image:https://cdn.discordapp.com/emojis/353245119589122048.png[image] + 
+`:rooWut:`
+|image:https://cdn.discordapp.com/emojis/353245286803439618.png[image] + 
+`:rooCop:`
+|image:https://cdn.discordapp.com/emojis/353245305535332352.png[image] + 
+`:rooLurkHD:`
+|image:https://cdn.discordapp.com/emojis/353245343040667650.png[image] + 
+`:rooTimeout:`
+|image:https://cdn.discordapp.com/emojis/353245423219245056.png[image] + 
+`:rooSad:`
+|image:https://cdn.discordapp.com/emojis/353245434069909506.png[image] + 
+`:rooHappy:`
+|image:https://cdn.discordapp.com/emojis/353245452872712195.png[image] + 
+`:rooWhine:`
+|image:https://cdn.discordapp.com/emojis/353245495319199757.png[image] + 
+`:rooWoo:`
+|image:https://cdn.discordapp.com/emojis/353245533839818756.png[image] + 
+`:rooBlind:`
+|image:https://cdn.discordapp.com/emojis/353245585165516800.png[image] + 
+`:rooSipHappy:`
+|image:https://cdn.discordapp.com/emojis/353245612424298496.png[image] + 
+`:rooBless:`
+|image:https://cdn.discordapp.com/emojis/353245797024006154.png[image] + 
+`:rooDerp:`
+|image:https://cdn.discordapp.com/emojis/353245820629417994.png[image] + 
+`:rooScared:`
+|image:https://cdn.discordapp.com/emojis/353245837373079553.png[image] + 
+`:rooComfy:`
+|image:https://cdn.discordapp.com/emojis/353245858881470466.png[image] + 
+`:rooDolph:`
+|image:https://cdn.discordapp.com/emojis/353246379705106454.png[image] + 
+`:rooNap:`
+|image:https://cdn.discordapp.com/emojis/353246394070335491.png[image] + 
+`:rooBooli:`
+|image:https://cdn.discordapp.com/emojis/353247038802100225.png[image] + 
+`:rooJustRight:`
+|image:https://cdn.discordapp.com/emojis/353247047966654464.png[image] + 
+`:rooFuuu:`
+|image:https://cdn.discordapp.com/emojis/353247084935118859.png[image] + 
+`:rooPimp:`
+|image:https://cdn.discordapp.com/emojis/353247093290434560.png[image] + 
+`:rooScotland:`
+|image:https://cdn.discordapp.com/emojis/353248269218086922.png[image] + 
+`:rooHappyL:`
+|image:https://cdn.discordapp.com/emojis/354539217495261184.png[image] + 
+`:rooRawr:`
+|image:https://cdn.discordapp.com/emojis/361899970896592907.png[image] + 
+`:rooPepo:`
+|image:https://cdn.discordapp.com/emojis/361899978282762251.png[image] + 
+`:rooLove:`
+|image:https://cdn.discordapp.com/emojis/361899984502915082.png[image] + 
+`:rooSellout:`
+|image:https://cdn.discordapp.com/emojis/361899990907355154.png[image] + 
+`:rooTreat:`
+|image:https://cdn.discordapp.com/emojis/361900005872762880.png[image] + 
+`:rooPewPew:`
+|image:https://cdn.discordapp.com/emojis/361902674016206848.png[image] + 
+`:rooWooL:`
+|image:https://cdn.discordapp.com/emojis/362969304985108480.png[image] + 
+`:rooRage:`
+|image:https://cdn.discordapp.com/emojis/362969311565971456.png[image] + 
+`:rooOldSip:`
+|image:https://cdn.discordapp.com/emojis/362969326762065920.png[image] + 
+`:rooHparpo:`
+|image:https://cdn.discordapp.com/emojis/362969333636268034.png[image] + 
+`:rooEatDaCrayon:`
+|image:https://cdn.discordapp.com/emojis/362969747769262083.png[image] + 
+`:rooIciWan:`
+|image:https://cdn.discordapp.com/emojis/363334519371071488.png[image] + 
+`:rooPanAmaru:`
+|image:https://cdn.discordapp.com/emojis/366553230013890560.png[image] + 
+`:rooAwwWizard:`
+|image:https://cdn.discordapp.com/emojis/366553239572971531.png[image] + 
+`:rooBless2:`
+|image:https://cdn.discordapp.com/emojis/366553247466651648.png[image] + 
+`:rooDevil:`
+|image:https://cdn.discordapp.com/emojis/366553268362674176.png[image] + 
+`:rooPirateDerp:`
+|image:https://cdn.discordapp.com/emojis/368491849641492480.png[image] + 
+`:rooTiger:`
+|image:https://cdn.discordapp.com/emojis/368911036759408653.png[image] + 
+`:rooOldSip2:`
+|image:https://cdn.discordapp.com/emojis/373818877643063297.png[image] + 
+`:rooMagic:`
+|image:https://cdn.discordapp.com/emojis/373818884756602891.png[image] + 
+`:rooMagicv2:`
+|image:https://cdn.discordapp.com/emojis/373818902372941846.png[image] + 
+`:rooShiny:`
+|image:https://cdn.discordapp.com/emojis/373818927060615168.png[image] + 
+`:rooVroom:`
+|image:https://cdn.discordapp.com/emojis/373818935361011723.png[image] + 
+`:rooAhaha:`
+|image:https://cdn.discordapp.com/emojis/373819051438374912.png[image] + 
+`:rooReaper:`
+|=======================================================================
+
+[[think]]
+## Think / Thonk
+
+[halign="center",valign="middle",cols="^,^,^,^"]
+|=======================================================================
+|image:https://cdn.discordapp.com/emojis/258419248202907650.png[image] + 
+`:Thonkery:`
+|image:https://cdn.discordapp.com/emojis/273748297309749258.png[image] + 
+`:ThonkangP:`
+|image:https://cdn.discordapp.com/emojis/299602199363846146.png[image] + 
+`:thonkan:`
+|image:https://cdn.discordapp.com/emojis/309374522442776577.png[image] + 
+`:CubeThonk:`
+|image:https://cdn.discordapp.com/emojis/309374525026467842.png[image] + 
+`:ThinkBro:`
+|image:https://cdn.discordapp.com/emojis/309374526263656449.png[image] + 
+`:ThinkUp:`
+|image:https://cdn.discordapp.com/emojis/309374527102517258.png[image] + 
+`:LennyThink:`
+|image:https://cdn.discordapp.com/emojis/309374527484329984.png[image] + 
+`:ThinkFusing:`
+|image:https://cdn.discordapp.com/emojis/353903871820693506.png[image] + 
+`:ThinkfishBaka:`
+|image:https://cdn.discordapp.com/emojis/356705655836508161.png[image] + 
+`:Think:`
+|image:https://cdn.discordapp.com/emojis/356936480221954048.png[image] + 
+`:Thonk:`
+|image:https://cdn.discordapp.com/emojis/356940908136235008.png[image] + 
+`:MEGATHINK:`
+|image:https://cdn.discordapp.com/emojis/356940986104152065.png[image] + 
+`:Thinkeyes:`
+|image:https://cdn.discordapp.com/emojis/359150978101936160.png[image] + 
+`:ThinkBanne:`
+|image:https://cdn.discordapp.com/emojis/359795335884832778.png[image] + 
+`:ThinkCorn:`
+|image:https://cdn.discordapp.com/emojis/362502581634859009.png[image] + 
+`:ThinkPlant:`
+|image:https://cdn.discordapp.com/emojis/368319852060082178.png[image] + 
+`:thinkW:`
+|image:https://cdn.discordapp.com/emojis/358589289090514954.png[image] + 
+`:think:`
+|image:https://cdn.discordapp.com/emojis/376427952705110016.png[image] + 
+`:rooThink:`
+|image:https://cdn.discordapp.com/emojis/317006804808630293.png[image] + 
+`:blobthonkang:`
+|image:https://cdn.discordapp.com/emojis/317006806310191115.png[image] + 
+`:blobhyperthinkfast:`
+|image:https://cdn.discordapp.com/emojis/317006497978777621.png[image] + 
+`:blobthinkingsmirk:`
+|image:https://cdn.discordapp.com/emojis/356833448763326474.png[image] + 
+`:blobthinkingsmirk:`
+|image:https://cdn.discordapp.com/emojis/317006502072287243.png[image] + 
+`:blobthinkingfast:`
+|image:https://cdn.discordapp.com/emojis/317006960161718273.png[image] + 
+`:blobthinkingglare:`
+|image:https://cdn.discordapp.com/emojis/317006649061801994.png[image] + 
+`:blobthinkingcool:`
+|image:https://cdn.discordapp.com/emojis/317006653285203978.png[image] + 
+`:blobthinking:`
+|image:https://cdn.discordapp.com/emojis/317006654803673109.png[image] + 
+`:blobthinkingeyes:`
+|image:https://cdn.discordapp.com/emojis/317006658670690305.png[image] + 
+`:blobthinkingdown:`
+|image:https://cdn.discordapp.com/emojis/357765371790491660.png[image] + 
+`:blobhyperthinkfast:`
+|image:https://cdn.discordapp.com/emojis/328161917493313546.png[image] + 
+`:GuriThink:`
+|image:https://cdn.discordapp.com/emojis/341946932639432704.png[image] + 
+`:k3llyTHINK:`
+|image:https://cdn.discordapp.com/emojis/283560481602535425.png[image] + 
+`:thinky:`
+|image:https://cdn.discordapp.com/emojis/278973234597199873.png[image] + 
+`:ChitoseThink:`
+|image:https://cdn.discordapp.com/emojis/356733130914267137.png[image] + 
+`:akariThink:`
+|image:https://cdn.discordapp.com/emojis/301100095838093322.png[image] + 
+`:KonataThink:`
+|=======================================================================
+
+
+[[pepe-frogs]]
+## Pepe Frogs
+
+[halign="center",valign="middle",cols="^,^,^,^"]
+|=======================================================================
+|image:https://cdn.discordapp.com/emojis/357513102444593152.png[image] + 
+`:FeelsBaguetteMan:`
+|image:https://cdn.discordapp.com/emojis/357513102570553354.png[image] + 
+`:FeelsAshKetchumMan:`
+|image:https://cdn.discordapp.com/emojis/357513105665818627.png[image] + 
+`:FeelsBanMan:`
+|image:https://cdn.discordapp.com/emojis/357513110183084045.png[image] + 
+`:FeelsAwooMan:`
+|image:https://cdn.discordapp.com/emojis/357513110531211265.png[image] + 
+`:FeelsBadEhMan:`
+|image:https://cdn.discordapp.com/emojis/357513130089250820.png[image] + 
+`:FeelsTastyMan:`
+|image:https://cdn.discordapp.com/emojis/357513130852483074.png[image] + 
+`:FeelsCoffeeMan:`
+|image:https://cdn.discordapp.com/emojis/357513133264207882.png[image] + 
+`:FeelsHappyHugMan:`
+|image:https://cdn.discordapp.com/emojis/357513133339705345.png[image] + 
+`:FeelsHuggedMan:`
+|image:https://cdn.discordapp.com/emojis/357513135722332161.png[image] + 
+`:FeelsSadMan:`
+|image:https://cdn.discordapp.com/emojis/357513135831253002.png[image] + 
+`:FeelsMmmMan:`
+|image:https://cdn.discordapp.com/emojis/357513136074522624.png[image] + 
+`:FeelsThinkingMan:`
+|image:https://cdn.discordapp.com/emojis/357513136208740353.png[image] + 
+`:FeelsGunMan:`
+|image:https://cdn.discordapp.com/emojis/357513136460398596.png[image] + 
+`:FeelsHugPleaseMan:`
+|image:https://cdn.discordapp.com/emojis/357513136460529665.png[image] + 
+`:FeelsGoodMan:`
+|image:https://cdn.discordapp.com/emojis/357513136527376384.png[image] + 
+`:FeelsEZMan:`
+|image:https://cdn.discordapp.com/emojis/357513136925966336.png[image] + 
+`:FeelsWoowMan:`
+|image:https://cdn.discordapp.com/emojis/357513137164910595.png[image] + 
+`:FeelsWeebMan:`
+|image:https://cdn.discordapp.com/emojis/357513137270030336.png[image] + 
+`:FeelsHugMan:`
+|image:https://cdn.discordapp.com/emojis/357513138079268875.png[image] + 
+`:FeelsOhGodMan:`
+|image:https://cdn.discordapp.com/emojis/357513139270713347.png[image] + 
+`:FeelsBatonMan:`
+|image:https://cdn.discordapp.com/emojis/357513139320913932.png[image] + 
+`:FeelsNeatMan:`
+|image:https://cdn.discordapp.com/emojis/357513139367051265.png[image] + 
+`:FeelsComfyMan:`
+|image:https://cdn.discordapp.com/emojis/357513139484360705.png[image] + 
+`:FeelsHeadsetMan:`
+|image:https://cdn.discordapp.com/emojis/357513139560120330.png[image] + 
+`:FeelsCopMan:`
+|image:https://cdn.discordapp.com/emojis/357513139610320896.png[image] + 
+`:FeelsWorriedMan:`
+|image:https://cdn.discordapp.com/emojis/357513139627229185.png[image] + 
+`:FeelsKekMan:`
+|image:https://cdn.discordapp.com/emojis/357513139698532352.png[image] + 
+`:FeelsThinkMan:`
+|image:https://cdn.discordapp.com/emojis/357513139786481665.png[image] + 
+`:FeelsWoawMan:`
+|image:https://cdn.discordapp.com/emojis/357513139979550745.png[image] + 
+`:FeelsRageMan:`
+|image:https://cdn.discordapp.com/emojis/357513140629536768.png[image] + 
+`:FeelsFedoraMan:`
+|image:https://cdn.discordapp.com/emojis/357518422763896834.png[image] + 
+`:FeelsBlobMan:`
+|=======================================================================
+
+[[blobs]]
+## Blobs
+
+[NOTE]
+**Note:** +
+**This part of the list is not fully curated.** +
+It's an automated export of various blob servers. +
+The table might contain duplicates or unrelated emojis.
+
+[halign="center",valign="middle",cols="^,^,^,^"]
+|=======================================================================
+|image:https://cdn.discordapp.com/emojis/335226080426328065.png[image] + 
+`:blobgroot:`
+|image:https://cdn.discordapp.com/emojis/335226210315665409.png[image] + 
+`:mangoblob:`
+|image:https://cdn.discordapp.com/emojis/335226249515368458.png[image] + 
+`:drublob:`
+|image:https://cdn.discordapp.com/emojis/335226331241512961.png[image] + 
+`:titusblob:`
+|image:https://cdn.discordapp.com/emojis/350368081530322954.png[image] + 
+`:poliblob:`
+|image:https://cdn.discordapp.com/emojis/353149848884609025.png[image] + 
+`:linkblob:`
+|image:https://cdn.discordapp.com/emojis/353911718088278016.png[image] + 
+`:totoblob:`
+|image:https://cdn.discordapp.com/emojis/363774965046312960.png[image] + 
+`:ratchetblob:`
+|image:https://cdn.discordapp.com/emojis/363781565861462026.png[image] + 
+`:arcablob:`
+|image:https://cdn.discordapp.com/emojis/364746960474865664.png[image] + 
+`:catbugblob:`
+|image:https://cdn.discordapp.com/emojis/366605308979838988.png[image] + 
+`:cupblob:`
+|image:https://cdn.discordapp.com/emojis/366605311022202881.png[image] + 
+`:mugblob:`
+|image:https://cdn.discordapp.com/emojis/376757754335068160.png[image] + 
+`:jackoblob:`
+|image:https://cdn.discordapp.com/emojis/376757795166355468.png[image] + 
+`:batleft:`
+|image:https://cdn.discordapp.com/emojis/376757797154455553.png[image] + 
+`:batblob:`
+|image:https://cdn.discordapp.com/emojis/376757797871943681.png[image] + 
+`:batright:`
+|image:https://cdn.discordapp.com/emojis/306548605622157312.png[image] + 
+`:blobbit:`
+|image:https://cdn.discordapp.com/emojis/306548623120924672.png[image] + 
+`:blobpenguin:`
+|image:https://cdn.discordapp.com/emojis/306548827337523201.png[image] + 
+`:shuublob:`
+|image:https://cdn.discordapp.com/emojis/306548865174077451.png[image] + 
+`:blobliz:`
+|image:https://cdn.discordapp.com/emojis/306566673161519115.png[image] + 
+`:jessblob:`
+|image:https://cdn.discordapp.com/emojis/306614926405795840.png[image] + 
+`:falcoblob:`
+|image:https://cdn.discordapp.com/emojis/307957561494077440.png[image] + 
+`:blobcil:`
+|image:https://cdn.discordapp.com/emojis/312043908244701184.png[image] + 
+`:thrallblob:`
+|image:https://cdn.discordapp.com/emojis/318083381621424128.png[image] + 
+`:dannyblob:`
+|image:https://cdn.discordapp.com/emojis/320028541787963392.png[image] + 
+`:jayblob:`
+|image:https://cdn.discordapp.com/emojis/325610779783069696.png[image] + 
+`:blobpaca:`
+|image:https://cdn.discordapp.com/emojis/326447700734378000.png[image] + 
+`:blobfruit:`
+|image:https://cdn.discordapp.com/emojis/326463419840724993.png[image] + 
+`:blobjiji:`
+|image:https://cdn.discordapp.com/emojis/330111142770769921.png[image] + 
+`:winnieblob:`
+|image:https://cdn.discordapp.com/emojis/335222568237793280.png[image] + 
+`:loonblob:`
+|image:https://cdn.discordapp.com/emojis/335864679249346561.png[image] + 
+`:mochi:`
+|image:https://cdn.discordapp.com/emojis/335864726703570944.png[image] + 
+`:glassbroc:`
+|image:https://cdn.discordapp.com/emojis/353149646056456203.png[image] + 
+`:targetblob:`
+|image:https://cdn.discordapp.com/emojis/353881812399030282.png[image] + 
+`:bobablob:`
+|image:https://cdn.discordapp.com/emojis/365249545640345612.png[image] + 
+`:moogleblob:`
+|image:https://cdn.discordapp.com/emojis/376765506100789259.png[image] + 
+`:snowflakeblob:`
+|image:https://cdn.discordapp.com/emojis/376765556017332226.png[image] + 
+`:polarblob:`
+|image:https://cdn.discordapp.com/emojis/376765556835221514.png[image] + 
+`:polarblobangry:`
+|image:https://cdn.discordapp.com/emojis/376765600199999490.png[image] + 
+`:snowmanblob:`
+|image:https://cdn.discordapp.com/emojis/376765600766361600.png[image] + 
+`:pengoblob:`
+|image:https://cdn.discordapp.com/emojis/357766488909676545.png[image] + 
+`:googlemuscleL:`
+|image:https://cdn.discordapp.com/emojis/357766488993562627.png[image] + 
+`:googlepenguin:`
+|image:https://cdn.discordapp.com/emojis/357766489027117057.png[image] + 
+`:googlecatheart:`
+|image:https://cdn.discordapp.com/emojis/357766489073254412.png[image] + 
+`:googlemuscleR:`
+|image:https://cdn.discordapp.com/emojis/357766489094357003.png[image] + 
+`:googlefire:`
+|image:https://cdn.discordapp.com/emojis/357766489127911425.png[image] + 
+`:googlewhale:`
+|image:https://cdn.discordapp.com/emojis/357766489153077249.png[image] + 
+`:pusheenblob:`
+|image:https://cdn.discordapp.com/emojis/357766489278775306.png[image] + 
+`:googlecake:`
+|image:https://cdn.discordapp.com/emojis/357766489291620353.png[image] + 
+`:nellyblob:`
+|image:https://cdn.discordapp.com/emojis/357766489333563392.png[image] + 
+`:kirbyblob:`
+|image:https://cdn.discordapp.com/emojis/357766489346015232.png[image] + 
+`:googleghost:`
+|image:https://cdn.discordapp.com/emojis/357766489346015243.png[image] + 
+`:blobpatrol:`
+|image:https://cdn.discordapp.com/emojis/357766489383763968.png[image] + 
+`:googlerabbit:`
+|image:https://cdn.discordapp.com/emojis/357766489392152576.png[image] + 
+`:googleturtle:`
+|image:https://cdn.discordapp.com/emojis/357766489400410112.png[image] + 
+`:wumpusblob:`
+|image:https://cdn.discordapp.com/emojis/357766489433964544.png[image] + 
+`:googlesnake:`
+|image:https://cdn.discordapp.com/emojis/357766489501335552.png[image] + 
+`:blobninja:`
+|image:https://cdn.discordapp.com/emojis/357766489518112769.png[image] + 
+`:googlesheep:`
+|image:https://cdn.discordapp.com/emojis/357766489564119050.png[image] + 
+`:googleredheart:`
+|image:https://cdn.discordapp.com/emojis/357766489639747585.png[image] + 
+`:blobross:`
+|image:https://cdn.discordapp.com/emojis/357766489656393728.png[image] + 
+`:bloboro:`
+|image:https://cdn.discordapp.com/emojis/357766489756925952.png[image] + 
+`:googlebee:`
+|image:https://cdn.discordapp.com/emojis/357766489920634880.png[image] + 
+`:nikoblob:`
+|image:https://cdn.discordapp.com/emojis/357766489950126080.png[image] + 
+`:googleblueheart:`
+|image:https://cdn.discordapp.com/emojis/343465433833275403.png[image] + 
+`:GreenTick:`
+|image:https://cdn.discordapp.com/emojis/343465434055704576.png[image] + 
+`:RedTick:`
+|image:https://cdn.discordapp.com/emojis/357765371325054977.png[image] + 
+`:blobpats:`
+|image:https://cdn.discordapp.com/emojis/357765371404484609.png[image] + 
+`:blobcheer:`
+|image:https://cdn.discordapp.com/emojis/357765371563868171.png[image] + 
+`:blobnomcookie:`
+|image:https://cdn.discordapp.com/emojis/357765371568324620.png[image] + 
+`:blobkissheart:`
+|image:https://cdn.discordapp.com/emojis/357765371593490432.png[image] + 
+`:blobblush:`
+|image:https://cdn.discordapp.com/emojis/357765371639365634.png[image] + 
+`:blobfacepalm:`
+|image:https://cdn.discordapp.com/emojis/357765371723513858.png[image] + 
+`:blobowo:`
+|image:https://cdn.discordapp.com/emojis/357765371727708161.png[image] + 
+`:blobwaitwhat:`
+|image:https://cdn.discordapp.com/emojis/357765371731902465.png[image] + 
+`:FeelsBlobMan:`
+|image:https://cdn.discordapp.com/emojis/357765371748679681.png[image] + 
+`:blobsweats:`
+|image:https://cdn.discordapp.com/emojis/357765371769651201.png[image] + 
+`:blobhammer:`
+|image:https://cdn.discordapp.com/emojis/357765371773714433.png[image] + 
+`:blobwoah:`
+|image:https://cdn.discordapp.com/emojis/357765371777908736.png[image] + 
+`:blobmelt:`
+|image:https://cdn.discordapp.com/emojis/357765371781971969.png[image] + 
+`:blobnom:`
+|image:https://cdn.discordapp.com/emojis/357765371790491660.png[image] + 
+`:blobhyperthinkfast:`
+|image:https://cdn.discordapp.com/emojis/357765371790491668.png[image] + 
+`:notlikeblob:`
+|image:https://cdn.discordapp.com/emojis/357765371790491669.png[image] + 
+`:blobthinkingeyes:`
+|image:https://cdn.discordapp.com/emojis/357765371807399939.png[image] + 
+`:thinkingwithblobs:`
+|image:https://cdn.discordapp.com/emojis/357765371832303618.png[image] + 
+`:blobsob:`
+|image:https://cdn.discordapp.com/emojis/357765371857469440.png[image] + 
+`:rainblob:`
+|image:https://cdn.discordapp.com/emojis/357765371857469451.png[image] + 
+`:blobwave:`
+|image:https://cdn.discordapp.com/emojis/357765371861663744.png[image] + 
+`:blobpolice:`
+|image:https://cdn.discordapp.com/emojis/357765371895349251.png[image] + 
+`:bloblul:`
+|image:https://cdn.discordapp.com/emojis/357765371945680896.png[image] + 
+`:blobnervous:`
+|image:https://cdn.discordapp.com/emojis/357765371945811978.png[image] + 
+`:blobuwu:`
+|image:https://cdn.discordapp.com/emojis/357765371962589185.png[image] + 
+`:blobthinkingfast:`
+|image:https://cdn.discordapp.com/emojis/357765371970715648.png[image] + 
+`:blobglare:`
+|image:https://cdn.discordapp.com/emojis/357765371970977792.png[image] + 
+`:blobderpy:`
+|image:https://cdn.discordapp.com/emojis/357765371987623936.png[image] + 
+`:blobhyperthink:`
+|image:https://cdn.discordapp.com/emojis/357765372050538496.png[image] + 
+`:blobpopcorn:`
+|image:https://cdn.discordapp.com/emojis/357765372109389824.png[image] + 
+`:blobthinkingglare:`
+|image:https://cdn.discordapp.com/emojis/357765372138749952.png[image] + 
+`:blobthinking:`
+|image:https://cdn.discordapp.com/emojis/357765372172042241.png[image] + 
+`:blobthonkang:`
+|image:https://cdn.discordapp.com/emojis/357765372281225226.png[image] + 
+`:blobshrug:`
+|image:https://cdn.discordapp.com/emojis/357765372742467594.png[image] + 
+`:blobthinkingdown:`
+|image:https://cdn.discordapp.com/emojis/357765372742598656.png[image] + 
+`:blob0w0:`
+|image:https://cdn.discordapp.com/emojis/357765372813901824.png[image] + 
+`:blobokhand:`
+|image:https://cdn.discordapp.com/emojis/357767364118315008.png[image] + 
+`:bolb:`
+|image:https://cdn.discordapp.com/emojis/357766406088949761.png[image] + 
+`:blobconfounded:`
+|image:https://cdn.discordapp.com/emojis/357766406131023873.png[image] + 
+`:blobdetective:`
+|image:https://cdn.discordapp.com/emojis/357766406139281409.png[image] + 
+`:blobbandage:`
+|image:https://cdn.discordapp.com/emojis/357766406265241601.png[image] + 
+`:blobexpressionless:`
+|image:https://cdn.discordapp.com/emojis/357766406273761281.png[image] + 
+`:blobdancer:`
+|image:https://cdn.discordapp.com/emojis/357766406332481558.png[image] + 
+`:blobsneezing:`
+|image:https://cdn.discordapp.com/emojis/357766406390939650.png[image] + 
+`:blobzippermouth:`
+|image:https://cdn.discordapp.com/emojis/357766406391201793.png[image] + 
+`:blobdead:`
+|image:https://cdn.discordapp.com/emojis/357766406433013763.png[image] + 
+`:blobhero:`
+|image:https://cdn.discordapp.com/emojis/357766406433013771.png[image] + 
+`:blobawkward:`
+|image:https://cdn.discordapp.com/emojis/357766406462373897.png[image] + 
+`:blobdevil:`
+|image:https://cdn.discordapp.com/emojis/357766406495928323.png[image] + 
+`:blobkissblush:`
+|image:https://cdn.discordapp.com/emojis/357766406508511233.png[image] + 
+`:blobnomouth:`
+|image:https://cdn.discordapp.com/emojis/357766406525419520.png[image] + 
+`:blobkiss:`
+|image:https://cdn.discordapp.com/emojis/357766406529482753.png[image] + 
+`:blobthumbsdown:`
+|image:https://cdn.discordapp.com/emojis/357766406538002432.png[image] + 
+`:blobfistbumpL:`
+|image:https://cdn.discordapp.com/emojis/357766406554648579.png[image] + 
+`:blobpoliceangry:`
+|image:https://cdn.discordapp.com/emojis/357766406563168266.png[image] + 
+`:blobmoustache:`
+|image:https://cdn.discordapp.com/emojis/357766406567100416.png[image] + 
+`:blobdrool:`
+|image:https://cdn.discordapp.com/emojis/357766406567231488.png[image] + 
+`:blobonfire:`
+|image:https://cdn.discordapp.com/emojis/357766406592266240.png[image] + 
+`:blobpin:`
+|image:https://cdn.discordapp.com/emojis/357766406600785921.png[image] + 
+`:blobunsure:`
+|image:https://cdn.discordapp.com/emojis/357766406613237760.png[image] + 
+`:blobeyes:`
+|image:https://cdn.discordapp.com/emojis/357766406613368832.png[image] + 
+`:blobsleepless:`
+|image:https://cdn.discordapp.com/emojis/357766406655311873.png[image] + 
+`:blobcouncil:`
+|image:https://cdn.discordapp.com/emojis/357766406676414464.png[image] + 
+`:blobsurprised:`
+|image:https://cdn.discordapp.com/emojis/357766406676414465.png[image] + 
+`:blobparty:`
+|image:https://cdn.discordapp.com/emojis/357766406684803072.png[image] + 
+`:blobwizard:`
+|image:https://cdn.discordapp.com/emojis/357766406693191680.png[image] + 
+`:blobflushed:`
+|image:https://cdn.discordapp.com/emojis/357766406781140992.png[image] + 
+`:photoblob:`
+|image:https://cdn.discordapp.com/emojis/357766406785204224.png[image] + 
+`:blobcowboy:`
+|image:https://cdn.discordapp.com/emojis/357766406785204225.png[image] + 
+`:blobteefs:`
+|image:https://cdn.discordapp.com/emojis/357766406789398539.png[image] + 
+`:blobidea:`
+|image:https://cdn.discordapp.com/emojis/357766406818758656.png[image] + 
+`:blobshh:`
+|image:https://cdn.discordapp.com/emojis/357766406844055552.png[image] + 
+`:blobhighfive:`
+|image:https://cdn.discordapp.com/emojis/357766406873546753.png[image] + 
+`:blobwhistle:`
+|image:https://cdn.discordapp.com/emojis/357766406978273281.png[image] + 
+`:blobthinkingsmirk:`
+|image:https://cdn.discordapp.com/emojis/357766407120879616.png[image] + 
+`:blobthump:`
+|image:https://cdn.discordapp.com/emojis/357766407120879617.png[image] + 
+`:blobnerd:`
+|image:https://cdn.discordapp.com/emojis/357766407272005632.png[image] + 
+`:gentleblob:`
+|image:https://cdn.discordapp.com/emojis/357765830664126465.png[image] + 
+`:blobastonished:`
+|image:https://cdn.discordapp.com/emojis/357765830685097985.png[image] + 
+`:blobcouple:`
+|image:https://cdn.discordapp.com/emojis/357765830743687169.png[image] + 
+`:blobhearteyes:`
+|image:https://cdn.discordapp.com/emojis/357765830781435906.png[image] + 
+`:blobunamused:`
+|image:https://cdn.discordapp.com/emojis/357765830890618882.png[image] + 
+`:blobneutral:`
+|image:https://cdn.discordapp.com/emojis/357765830890749953.png[image] + 
+`:blobugh:`
+|image:https://cdn.discordapp.com/emojis/357765830898876417.png[image] + 
+`:blobfrowningbig:`
+|image:https://cdn.discordapp.com/emojis/357765830919847940.png[image] + 
+`:blobtriumph:`
+|image:https://cdn.discordapp.com/emojis/357765830953664513.png[image] + 
+`:blobsmileopenmouth2:`
+|image:https://cdn.discordapp.com/emojis/357765830962053121.png[image] + 
+`:blobfearful:`
+|image:https://cdn.discordapp.com/emojis/357765830991282178.png[image] + 
+`:blobtongue:`
+|image:https://cdn.discordapp.com/emojis/357765831012122626.png[image] + 
+`:blobopenmouth:`
+|image:https://cdn.discordapp.com/emojis/357765831016579072.png[image] + 
+`:blobcool:`
+|image:https://cdn.discordapp.com/emojis/357765831020642305.png[image] + 
+`:blobnogood:`
+|image:https://cdn.discordapp.com/emojis/357765831041613825.png[image] + 
+`:blobsmirk:`
+|image:https://cdn.discordapp.com/emojis/357765831058259979.png[image] + 
+`:blobok:`
+|image:https://cdn.discordapp.com/emojis/357765831071105024.png[image] + 
+`:blobbowing:`
+|image:https://cdn.discordapp.com/emojis/357765831071105025.png[image] + 
+`:blobpray:`
+|image:https://cdn.discordapp.com/emojis/357765831075037188.png[image] + 
+`:blobsmilesweat2:`
+|image:https://cdn.discordapp.com/emojis/357765831075168257.png[image] + 
+`:blobsleeping:`
+|image:https://cdn.discordapp.com/emojis/357765831083556864.png[image] + 
+`:blobfrown:`
+|image:https://cdn.discordapp.com/emojis/357765831112917012.png[image] + 
+`:blobpensive:`
+|image:https://cdn.discordapp.com/emojis/357765831112917016.png[image] + 
+`:blobsmilehappyeyes:`
+|image:https://cdn.discordapp.com/emojis/357765831121305601.png[image] + 
+`:blobsunglasses:`
+|image:https://cdn.discordapp.com/emojis/357765831154860032.png[image] + 
+`:blobsmileopenmouth:`
+|image:https://cdn.discordapp.com/emojis/357765831167311883.png[image] + 
+`:blobtonguewink:`
+|image:https://cdn.discordapp.com/emojis/357765831175831552.png[image] + 
+`:blobupsidedown:`
+|image:https://cdn.discordapp.com/emojis/357765831180025856.png[image] + 
+`:blobtired:`
+|image:https://cdn.discordapp.com/emojis/357765831180156928.png[image] + 
+`:blobwink:`
+|image:https://cdn.discordapp.com/emojis/357765831184089088.png[image] + 
+`:blobgrin:`
+|image:https://cdn.discordapp.com/emojis/357765831200997379.png[image] + 
+`:blobcheeky:`
+|image:https://cdn.discordapp.com/emojis/357765831209385984.png[image] + 
+`:blobxd:`
+|image:https://cdn.discordapp.com/emojis/357765831213580300.png[image] + 
+`:blobjoy:`
+|image:https://cdn.discordapp.com/emojis/357765831217905664.png[image] + 
+`:blobsmilesweat:`
+|image:https://cdn.discordapp.com/emojis/357765831243071488.png[image] + 
+`:blobcry:`
+|image:https://cdn.discordapp.com/emojis/357765831251460097.png[image] + 
+`:blobrofl:`
+|image:https://cdn.discordapp.com/emojis/357765831264043019.png[image] + 
+`:blobupset:`
+|image:https://cdn.discordapp.com/emojis/357765831301660672.png[image] + 
+`:blobsmilehappy:`
+|image:https://cdn.discordapp.com/emojis/357765831414906890.png[image] + 
+`:blobdizzy:`
+|image:https://cdn.discordapp.com/emojis/357765831775617025.png[image] + 
+`:blobconfused:`
+|=======================================================================
