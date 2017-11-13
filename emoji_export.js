@@ -1,3 +1,21 @@
+/**
+ * Helper script to export emojis from Discord.
+ *
+ * This connects to the v6 websocket and pretends to be a fresh client.
+ * Discord's READY packet contains the emojis we want.
+ * To run this script simply open your devtools (CTRL-SHIFT-I / CMD-ALT-I) and go
+ * into the "Application" tab. Unfold "localStorage" and click on the only item.
+ * Now copy the value of the "token" entry.
+ *
+ * After you've got your token run this script with the token argument.
+ *
+ * ie: node emoji_export.js "mfa.txrbT8vjSQwrCKI..."
+ *
+ * The script signs off after we got the emojis.
+ * Emojis will be cached in a "emojis.json".
+ * You only need to run this script to refresh that json file.
+ */
+
 const WebSocket = require('ws');
 const fs = require('fs');
 
@@ -74,9 +92,11 @@ ws.on('message', data => {
     console.log();
     console.log('[G] ' + guild.id + ' / ' + guild.name);
 
+    emojis[guild.name] = {};
+
     for (let emoji of guild.emojis) {
       console.log('[E] ' + emoji.name + ' -> ' + emoji.id);
-      emojis[emoji.name] = emoji.id;
+      emojis[guild.name][emoji.name] = emoji.id;
     }
   }
 
