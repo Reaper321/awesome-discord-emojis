@@ -191,8 +191,6 @@ toc::[]
 `:blobhyperthinkfast:`
 |image:https://cdn.discordapp.com/emojis/317006497978777621.png[image] + 
 `:blobthinkingsmirk:`
-|image:https://cdn.discordapp.com/emojis/356833448763326474.png[image] + 
-`:blobthinkingsmirk:`
 |image:https://cdn.discordapp.com/emojis/317006502072287243.png[image] + 
 `:blobthinkingfast:`
 |image:https://cdn.discordapp.com/emojis/317006960161718273.png[image] + 
@@ -219,6 +217,7 @@ toc::[]
 `:akariThink:`
 |image:https://cdn.discordapp.com/emojis/301100095838093322.png[image] + 
 `:KonataThink:`
+|`<placeholder>`
 |=======================================================================
 
 
@@ -674,4 +673,7 @@ The table might contain duplicates or unrelated emojis.
 `:blobdizzy:`
 |image:https://cdn.discordapp.com/emojis/357765831775617025.png[image] + 
 `:blobconfused:`
+|`<placeholder>`
+|`<placeholder>`
+|`<placeholder>`
 |=======================================================================
