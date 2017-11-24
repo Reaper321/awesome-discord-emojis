@@ -34,6 +34,8 @@ toc::[]
 [[roo]]
 ## Roo
 
+Praise the roos.
+
 [halign="center",valign="middle",cols="^,^,^,^"]
 |=======================================================================
 |image:https://cdn.discordapp.com/emojis/353244916307984386.png[image] + 
@@ -140,6 +142,28 @@ toc::[]
 `:rooAhaha:`
 |image:https://cdn.discordapp.com/emojis/373819051438374912.png[image] + 
 `:rooReaper:`
+|image:https://cdn.discordapp.com/emojis/383334053434359810.png[image] +
+`:rooThinkmas`
+|image:https://cdn.discordapp.com/emojis/383334062343061508.png[image] +
+`:rooWutmas:`
+|image:https://cdn.discordapp.com/emojis/383326395725512714.png[image] +
+`:rooPresent:`
+|image:https://cdn.discordapp.com/emojis/383333998488715275.png[image] +
+`:rooHmmmmas:`
+|image:https://cdn.discordapp.com/emojis/383333984232275968.png[image] +
+`:rooHappymas:`
+|image:https://cdn.discordapp.com/emojis/383333977836224513.png[image] +
+`:rooFatmas:`
+|image:https://cdn.discordapp.com/emojis/383333970114248704.png[image] +
+`:rooDermas:`
+|image:https://cdn.discordapp.com/emojis/383333962963222550.png[image] +
+`:rooBlindmas:`
+|image:https://cdn.discordapp.com/emojis/383333952376799232.png[image] +
+`:rooAwwmas:`
+|image:https://cdn.discordapp.com/emojis/383334454204301312.png[image] +
+`:rooSadmas:`
+|`<placeholder>`
+|`<placeholder>`
 |=======================================================================
 
 [[think]]
