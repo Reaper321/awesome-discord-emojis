@@ -143,7 +143,7 @@ Praise the roos.
 |image:https://cdn.discordapp.com/emojis/373819051438374912.png[image] + 
 `:rooReaper:`
 |image:https://cdn.discordapp.com/emojis/383334053434359810.png[image] +
-`:rooThinkmas`
+`:rooThinkmas:`
 |image:https://cdn.discordapp.com/emojis/383334062343061508.png[image] +
 `:rooWutmas:`
 |image:https://cdn.discordapp.com/emojis/383326395725512714.png[image] +
